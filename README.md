@@ -1,4 +1,4 @@
-# Manual-Assignment_5
+# Manual_Assignment_5
 About the What is Automation Testing.
 Browsers Supported By Selenium Ide.
 benefits of Automation Testing.
